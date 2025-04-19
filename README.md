@@ -41,6 +41,6 @@ CSV outputs will be saved in the working directory.
 
 ## Author
 
-Ashwin Nambiar  
+Ashwin Mohan  
 MSc Diagnostics, Data and Digital Health  
 University of Warwick
